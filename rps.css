@@ -1,0 +1,38 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    padding:20px;
+    font-size: 28px;
+    font-weight: bold
+}
+
+.reset1{
+    border: none;
+    padding: 9px 15px;
+    background-color: white;
+    cursor:pointer;
+}
+.img{
+    height:50px;
+
+}
+.butimg{
+    height: 100px;
+    width:100px;
+    border-radius: 100px;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    margin-right: 10px;
+    background-color: transparent;
+
+
+}
+.cssResult{
+    font-weight:bold;
+    font-size: 40px;
+    padding:10px 10px;
+}
