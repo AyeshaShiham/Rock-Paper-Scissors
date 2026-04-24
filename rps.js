@@ -29,7 +29,7 @@
             computerMove ='Paper';
         }
         else if (randomNumber >= 2/3  && randomNumber < 1){
-            computerMove ='Rock';
+            computerMove ='Scissors';
         }
         return computerMove;
 }
